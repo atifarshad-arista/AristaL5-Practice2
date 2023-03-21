@@ -1,0 +1,61 @@
+{
+  "jsonrpc": "2.0",
+  "method": "runCmds",
+  "params": {
+    "version": 1,
+    "cmds": [
+      "conf t",
+      "int e1",
+      "ip add 2.2.2.2/24"
+    ],
+    "format": "text",
+    "timestamps": false,
+    "autoComplete": true,
+    "expandAliases": false,
+    "stopOnError": true,
+    "streaming": false,
+    "includeErrorDetail": false
+  },
+  "id": "EapiExplorer-1"
+}
+{
+  "jsonrpc": "2.0",
+  "method": "runCmds",
+  "params": {
+    "version": 1,
+    "cmds": [
+      "conf t",
+      "int e1",
+      "ip add 2.2.2.2/24"
+    ],
+    "format": "text",
+    "timestamps": false,
+    "autoComplete": true,
+    "expandAliases": false,
+    "stopOnError": true,
+    "streaming": false,
+    "includeErrorDetail": false
+  },
+  "id": "EapiExplorer-1"
+}
+{
+  "jsonrpc": "2.0",
+  "method": "runCmds",
+  "params": {
+    "version": 1,
+    "cmds": [
+      "conf t",
+      "int e1",
+      "ip add 2.2.2.2/24"
+    ],
+    "format": "text",
+    "timestamps": false,
+    "autoComplete": true,
+    "expandAliases": false,
+    "stopOnError": true,
+    "streaming": false,
+    "includeErrorDetail": false
+  },
+  "id": "EapiExplorer-1"
+}
+
